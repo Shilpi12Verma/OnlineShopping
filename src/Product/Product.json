@@ -1,0 +1,186 @@
+{
+    "Product":[{
+        "p_name":"Mobile",
+        "p_id":"p01",
+        "description":"Mobile Phones",
+        "p_image":"../../../image/phone.jpg",
+         "subcatagory":[
+                        {
+                            "s_id":"ps01",
+                            "company":"Samsung",
+                           "price":"20000",
+                            "s_image":"../../../image/sam.jpg",
+                           "s_description":"Samsung Galaxy is Samsung Electronics' flagship line of Android smartphones and tablets."
+                        },
+                        {
+                            "s_id":"ps02",
+                            "company":"Realme",
+                           "price":"16000",
+                           "s_image":"../../../image/realme.jpg",
+                           "s_description":"Realme is Electronics' flagship line of Android smartphones and tablets."               
+                        },
+                        {
+                            "s_id":"ps03",
+                            "company":"Oppo",
+                           "price":"22000",
+                           "s_image":"../../../image/oppo.jpg",
+                           "s_description":"Oppo is Electronics' flagship line of Android smartphones and tablets." 
+                        },
+                        {
+                            "s_id":"ps04",
+                            "company":"Redmi",
+                           "price":"18000",
+                           "s_image":"../../../image/redmi.jpg",
+                           "s_description":"Redmi is Electronics' flagship line of Android smartphones and tablets." 
+                        
+                        }
+                       ]
+                },
+                {
+                    "p_name":"Men Cloth",
+                    "p_id":"p02",
+                    "description":"Men Cloth and Fashion",
+                    "p_image":"../../../image/man.png",
+                     "subcatagory":[
+                            {
+                                "s_id":"ps05",
+                                "company":"Arrow Shirts",
+                                "price":"2800",
+                                "s_image":"../../../image/man1.jpg",
+                                "s_description":"Arrow is one of the oldest brands when it comes to men’s shirts and is owned by the PVH Company. The Arrow collared shirts made quite an impact during its original campaign that ran from 1905-31 and continues to be widely popular."
+                            },
+                            {
+                                "s_id":"ps06",
+                                "company":"Peter England Shirts",
+                                "price":"2600",
+                                "s_image":"../../../image/man2.jpg",
+                                "s_description":"Peter England is one of the largest menswear brands in India known for its standardized fits. From regular fit to slim fit and unique designs these shirts can at a formal event and even on a casual meet with friends."                                            
+                             },
+                             {
+                                "s_id":"ps07",
+                                "company":"Van Heusen Shirts",
+                                "price":"2300",
+                                "s_image":"../../../image/man3.jpg",
+                                "s_description":"Van Heusen gives you the power to choose with impressive collars, cuffs and everything in between for men shirts. These shirts boast of elegance in their magnificent patterns like solid, printed, self-design, striped, and checked."                                     
+                            },
+                            {
+                                "s_id":"ps08",
+                                "company":"Zodiac Shirts",
+                                "price":"2500",
+                                "s_image":"../../../image/man4.jpg",
+                                "s_description":"Zodiac is a leader in men’s fine clothing and accessories. Its international and sophisticated styles reinvent men’s fashion. Zodiac is best known for its designs that are bound to revamp your everyday look." 
+                                        
+                            }
+                       ]
+                },
+                {
+                     "p_name":"Women Cloth",
+                     "p_id":"p03",
+                     "description":"Women Cloth and Fashion",
+                     "p_image":"../../../image/womenicon.jpg",
+                     "subcatagory":[
+                             {
+                                "s_id":"ps09",
+                                "company":"BIBA",
+                                "price":"22000",
+                               "s_image":"../../../image/women5.jpg",
+                                 "s_description":"Biba is one of the famous Indian ethnic wear ladies clothing brand in India started in the year 1988 by Meena Bindra in New Delhi. From trendy Kurtis to elegant salwar suits, Biba has a mind-boggling collection."
+                            },
+                            {
+                                "s_id":"ps010",
+                                 "company":"FABINDIA",
+                                "price":"15000",
+                                "s_image":"../../../image/women2.jpg",
+                                "s_description":"Any tourist visiting India would most certainly have shopped at Fabindia on his/her list. FabIndia is one of the largest fashion brands in India famous for ethnic and traditional wear for women."                                                
+                            },
+                            {
+                                "s_id":"ps011",
+                               "company":"LEVIS",
+                               "price":"1700",
+                                "s_image":"../../../image/women3.jpg",
+                               "s_description":"Designer Anita Dongre has made fashion available for everyone. Available both online and at stores, this is that one designer from whom you can find experimental styles and designs."                                                
+                            },
+                            {
+                                "s_id":"ps012",
+                                "company":"WESTSIDE",
+                                "price":"1900",
+                                "s_image":"../../../image/women4.jpg",
+                                 "s_description":"Westside is the retail hand of the Tata group, started in 1998. You will get traditional-wear for festivals to cocktail dresses for evening parties under one roof." 
+                            }
+                        ]
+                },
+                {
+                    "p_name":"Child Cloth",
+                    "p_id":"p04",
+                    "description":"Child Cloth and Fashion",
+                    "p_image":"../../../image/s4.jpg",
+                    "subcatagory":[
+                            {
+                               "s_id":"ps013",
+                               "company":"Lilliput",
+                               "price":"1400",
+                              "s_image":"../../../image/s7.jpg",
+                                "s_description":"The premium kidswear brand launched in 2003. Lilliput is also a popular kid’s clothing brand in the middle east, gulf and Africa.Lilliput offers stylish and affordable clothes for children of all ages."
+                           },
+                           {
+                               "s_id":"ps014",
+                                "company":"Gini & Jony",
+                               "price":"1000",
+                               "s_image":"../../../image/s1.jpg",
+                               "s_description":"The brand is synonymous with kids fashion. Gini & Jony is popular for its bright and colourful kids apparel and accessories.The leading kids clothing brand has over 200 exclusive brand outlet."                                                
+                           },
+                           {
+                               "s_id":"ps015",
+                              "company":"Cucumber",
+                              "price":"22000",
+                               "s_image":"../../../image/s5.jpg",
+                              "s_description":"The kid's garment brand Cucumber is part of HP cotton Casual Pvt Ltd. The brand was first launched in 2001. From bright colours to attractive prints and designs the kidswear brand hs it all."                                                
+                           },
+                           {
+                               "s_id":"ps016",
+                               "company":"Little Kangaroos",
+                               "price":"1800",
+                               "s_image":"../../../image/s6.jpg",
+                                "s_description":"The leading clothing brand for kids in India, Little Kangaroos has a different collection to take care of every dressing need of your little one.Marshmallow range is for newborns to 9 months. thoughtful designs for your newborns." 
+                           }
+                       ]
+               },
+               {
+                "p_name":"Rings",
+                "p_id":"p05",
+                "description":"Rings",
+                "p_image":"../../../image/ringicon.jpg",
+                "subcatagory":[
+                        {
+                           "s_id":"ps017",
+                           "company":"Tiffany & Co.",
+                           "price":"40000",
+                          "s_image":"../../../image/ring.png",
+                            "s_description":"Very few people in the world are unaware of the household name that is “Tiffany & Co.” Originally a stationery and fancy goods emporium located in Brooklyn."
+                       },
+                       {
+                           "s_id":"ps018",
+                            "company":"DeBeers",
+                           "price":"46000",
+                           "s_image":"../../../image/ring2.jpg",
+                           "s_description":"DeBeers is the reason diamond engagement rings are a thing. Although the tradition of wearing a wedding or engagement ring existed long before DeBeers did, their triumphant diamond engagement rings an enduring pre-wedding custom."                                                
+                       },
+                       {
+                           "s_id":"ps019",
+                          "company":"Cartier ",
+                          "price":"42000",
+                           "s_image":"../../../image/ring3.jpg",
+                          "s_description":"An engagement ring from Cartier is a pure embodiment of Parisian luxury. Louis Francois Cartier and his family owned the company until the 1960s."                                                
+                       },
+                       {
+                           "s_id":"ps020",
+                           "company":"Graff ",
+                           "price":"48000",
+                           "s_image":"../../../image/ring4.jpg",
+                            "s_description":"Princess Charlene of Monaco is among Graff’s many royal customers. The founder, Laurence Graff, is a British jeweler based in London. The creative artisan has handled more diamonds of notable beauty and rarity than any other jeweler." 
+                       }
+                   ]
+           }
+    
+    ]
+}

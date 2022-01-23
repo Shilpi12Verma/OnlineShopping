@@ -1,0 +1,168 @@
+.home_img{
+    height: 400px;
+    width: 100%;
+  }
+  .img{
+    height: 300px;
+    width: 200px;
+  }
+  .div{
+    background-color: #16a085;
+    height: 60px;
+  }
+.sale{
+  font-size: 18px;
+  padding-top: 18px;
+  margin-right: 660px;
+}
+.hurry{
+  color: blue;
+  text-shadow: 2px 1px black;
+  font-size: 30px;
+}
+.but{
+  background-color: #e55039;
+  border: 2px solid black;
+  height: 50px;
+  width: 120px;
+  
+}
+.but:hover{
+  background-color: #c0392b;
+  letter-spacing: 1px;
+  border: 1px solid black;
+}
+.hed{
+  font-size: 15px;
+}
+.bar{
+  background-color: #ced6e0;
+}
+.fhead{
+  background-color: #182334;
+  color: #fff;
+}
+.fhead li{
+  list-style: none;
+  font-size: 15px;
+  font-weight: lighter;
+  color: #fff;
+  cursor: pointer;
+  margin: 8px;
+}
+.fhead li a{
+  text-decoration: none;
+  color: #fff;
+}
+.fhead li a:hover{
+  letter-spacing: 1px;
+}
+.class{
+   width: 500px;
+ height: 350px; 
+  background-color: #dcdde1;
+}
+.pic{
+  width: 0px;
+  height: 200px;
+  background-color: #dcdde1;
+}
+.word{
+  margin-left: 10px;
+}
+.para1{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 0%;
+}
+.para2{
+  font-size: 20px;
+  font-weight: 20px;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'PT Serif', serif;
+}
+.para3{
+  color: #c0392b;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'PT Serif', serif;
+}
+.simg{
+  width: 250px;
+  height: 250px;
+}
+.paragraph{
+  font-size: 50px;
+  font-family: 'Abril Fatface', cursive;
+  font-family: 'Courgette', cursive;
+  font-family: 'Luxurious Roman', cursive;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'PT Serif', serif;
+}
+.paragraph span{
+  font-family: 'Abril Fatface', cursive;
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+  font-size: 35px;
+  border: 1px solid red;
+  padding: 1px;
+  background-color: #e55039;
+}
+.paragraph span{
+  color: white;
+  font-size: 43px;
+  border: 1px solid red;
+  padding: 1px;
+  background-color: #e55039;
+}
+.feature{
+  width: 120px;
+  height: 40px;
+  font-size: large;
+  background-color: #e55039;
+  border: 2px solid black;
+  }
+  .feature:hover{
+    background-color: #c0392b;
+    letter-spacing: 1px;
+    border: 1px solid black;
+  }
+  .DIV{
+  background-color: #f5f6fa;
+  height: 350px;
+  display: flex;
+  }
+ .simg1{
+    background-color: #f5f6fa;
+    height: 300px;
+    float: right;
+    width: 40%;
+    height: 300px;
+    margin-right: 50px;
+    margin-top: 20px;
+  }
+   p{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+  }
+.discount{
+  width: 60%;
+  padding-top: 150px;
+}
+.homebut{
+  margin-top: 150px;
+  margin-right: 150px;
+  width: 200px;
+ height: 50px;
+ display: inline-block;
+ background-color: #e55039;
+ border: 2px solid black;
+}
+.homebut:hover{
+  background-color: #c0392b;
+  letter-spacing: 1px;
+  border: 1px solid black;
+}

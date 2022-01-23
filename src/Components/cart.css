@@ -1,0 +1,20 @@
+.carthead{
+    color: #e74c3c;
+}
+.summary{
+    width: 30%;
+}
+.filter{
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 20px;
+    height: 86vh;
+}
+.cartbtn{
+    background-color: #fff;
+    border: #fff;
+}

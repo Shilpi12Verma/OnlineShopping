@@ -1,0 +1,27 @@
+.logindiv{
+    margin-left: 320px;
+    margin-right: 320px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    border: 1px solid silver;
+    box-shadow: 8px 9px #dfe6e9;
+}
+.logintext{
+    background-color: red;
+    background-color: #ecf0f1;
+}
+.loginname{
+    font-size: 40px;
+    color: #273c75;
+}
+.button{
+    width: 150px;
+    height: 40px;
+}
+.signerror{
+    color: red; 
+}
+h2{
+    color: #6D214F;
+}

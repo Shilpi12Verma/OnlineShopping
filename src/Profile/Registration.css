@@ -1,0 +1,55 @@
+.mainclass{
+  width: 1000px;
+  height: 450px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -35%);
+  display: flex;
+  margin-left: 150px;
+  box-sizing: border-box;
+}
+.leftform{
+    width: 30%;
+    height: 300px;
+    display: flex;
+}
+.rightform{
+    width: 80%;
+}
+.reginput{
+    width: 300px;
+    font-size: 20px;
+    display: block;
+    margin-top: 15px;
+    border: none;
+    padding: 10px 10px;
+    border-bottom: 2px solid black; 
+}
+.regbtn{
+    font-size: 25px;
+    padding: 5px;
+    width: 150px;
+    background-color: #4b7bec;
+    color: #fff;
+}
+.regbtn1{
+    width: 120px;
+    padding: 4px;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    background-color: #3b5998;
+}
+.regbtn2{
+    width: 120px;
+    padding: 4px;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    background-color: #db4437;
+}
+.bar{
+    background-color: #ced6e0;
+    margin-bottom: 0px;
+  }

@@ -1,0 +1,47 @@
+.prodbtn{
+    color: #fff;
+    text-decoration: none;
+}
+.prodbtn:hover{
+    color: #fff;
+    letter-spacing: 1px;
+}
+.Prodcard{
+    height: 430px;
+}
+.prodbutton{
+    background-color: rgb(119, 4, 4);
+}
+.prodcato{
+    display: flex;
+}
+.prodcontainer{
+    display: flex;
+    width: 78%;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+@media (max-width: 771px) {
+    .filter{
+        width: 40%;
+        padding: 10px;
+        margin-top: 5px;
+    }
+    .filter > span {
+        font-size: 10px;
+    }
+    .title{
+       font-synthesis: 18px !important;
+    }
+    .prodcontainer{
+        width: 58%;
+        padding: 0;
+    }
+    .search {
+        display: none !important;
+    }
+    .prodcato{
+        width: 100%;
+    }
+}

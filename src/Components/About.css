@@ -1,0 +1,15 @@
+.aboutdiv1{
+    width: 100%;
+    display: flex;
+}
+.aboutdiv2{
+    width: 30%;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.aboutdiv3{
+    width: 70%;
+    right: 0%;
+    margin-top: 50px;
+
+}
